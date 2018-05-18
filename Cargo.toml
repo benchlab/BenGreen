@@ -1,7 +1,11 @@
 [package]
 name = "bengreen"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["BenchX <labs@benchx.io>"]
+description = "BenGreen is benOS' GreenRunner used to locate failures within the benOS microkernel."
+homepage = "https://os.benchx.io"
+repository = "http://open.benchx.io/benos/testing/bengreen"
+license-file = "LICENSE"
 
 [dependencies]
 x86 = "0.7"
