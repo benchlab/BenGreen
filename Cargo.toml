@@ -1,0 +1,7 @@
+[package]
+name = "ben-green"
+version = "0.1.0"
+authors = ["BenchX <labs@benchx.io>"]
+
+[dependencies]
+x86 = "0.7"
